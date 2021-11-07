@@ -1,2 +1,7 @@
 # MNIST_Data_augmentation
-Building a digit recognition model using sklearn and data augmentation using Keras
+Experimenting how data augmentation affects model score.
+
+I've buld a logistic regression and Random forest model with sklearn 
+And used Kertas for data augmentation.
+
+So far I see that the score goes down with augmentation.
