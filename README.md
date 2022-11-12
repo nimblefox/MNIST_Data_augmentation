@@ -2,6 +2,6 @@
 Experimenting how data augmentation affects model score.
 
 I've buld a logistic regression and Random forest model with sklearn 
-And used Kertas for data augmentation.
+And used Keras for data augmentation.
 
-So far I see that the score goes down with augmentation.
+So far I have seen that augmentation has only deteriorated the score
